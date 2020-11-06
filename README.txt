@@ -12,7 +12,7 @@ name: <Share name>_<EX date >_<REC date>_<Dividend amount per share>.csv  (examp
 fields: Trade_id, Seller_acct, Buyer_acct, Amount, TD, SD
 
 Trade_id – trade unique id, 10 digits
-Seller_acct– seller account, 8 digits
+Seller_acct – seller account, 8 digits
 Buyer_acct – buyer account, 8 digits
 Amount – number of shares, integer
 TD – Trade Date
